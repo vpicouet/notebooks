@@ -7,3 +7,4 @@ datetime
 astroquery
 pandas
 ipywidgets
+ipympl
