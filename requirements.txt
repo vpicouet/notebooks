@@ -8,7 +8,7 @@ astroquery
 pandas
 ipywidgets
 ipympl
-voila
+voila 
 #bqplot
 #ipympl
 #ipyvolume
