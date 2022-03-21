@@ -126,3 +126,5 @@ dmypy.json
 Plotly.ipynb
 
 *.xml
+
+.DS_Store
